@@ -1,0 +1,21 @@
+p {
+    color: #ed35f0;
+}
+
+body {
+    background-color: black;
+    text-align: center;
+    color: white;
+}
+
+.titulo{
+    font-size: large;
+}
+
+#texto-branco{
+    color: white;
+}
+
+.top{
+    background-color: chocolate;
+}
